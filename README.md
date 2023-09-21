@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @JuniperChris929
-- 👀 I’m interested in juniperizing this whole planet and all future planets (if still alive)
+- 👀 I’m interested in everything networking and automation
 - 💞️ I’m looking to collaborate on Python + Juniper
 - 📫 How to reach me christian.scholz [insert at sign here] netchron [insert random dot here] de | Twitter: @chsjuniper
 
