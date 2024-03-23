@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @JuniperChris929
-- 👀 I’m interested in everything networking and automation
-- 💞️ I’m looking to collaborate on Python + Juniper
-- 📫 How to reach me christian.scholz [insert at sign here] netchron [insert random dot here] de | Twitter: @chsjuniper
+- 👀 I’m interested in everything networking
+- 💞️ I’m looking to collaborate on Python 
 
 <!---
 JuniperChris929/JuniperChris929 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
